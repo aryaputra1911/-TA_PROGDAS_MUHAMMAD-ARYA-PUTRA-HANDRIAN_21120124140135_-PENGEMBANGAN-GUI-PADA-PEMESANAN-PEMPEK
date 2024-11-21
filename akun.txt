@@ -1,0 +1,12 @@
+admin,admin123
+user,user123
+arya,1234
+ucup,123ucup
+zzz,111
+zombod,0909
+ikiboy,vayakuromi
+suharmono,icikiwir
+kaniya,aku sayang kamu
+budi,abcd
+a,124
+1,124

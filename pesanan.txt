@@ -1,0 +1,87 @@
+Pempek Kapal Selam,1,15000
+ucup,Pempek Lenjer,1,10000
+arya,Pempek Lenjer,1,10000
+arya,Pempek Kapal Selam,5,75000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,2,30000
+admin,Pempek Kapal Selam,1,15000
+ikiboy,Pempek Telur,2000,24000000
+ikiboy,Pempek Kapal Selam,5,75000
+ikiboy,Pempek Lenjer,3,30000
+arya,Pempek Kapal Selam,5,75000
+suharmono,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Telur,4,48000
+arya,Pempek Kapal Selam,3,45000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Kapal Selam,4,60000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,3,45000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,25000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,3,45000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,5,75000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Lenjer,3,30000
+arya,Pempek Lenjer,1,10000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,3,45000
+arya,Pempek Kapal Selam,4,60000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Lenjer,1,10000
+arya,Pempek Lenjer,1,10000
+kaniya,Pempek Kapal Selam,3,45000
+arya,Pempek Lenjer,1,10000
+arya,Pempek Kapal Selam,13,195000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,2,30000
+budi,Pempek Lenjer,1,10000
+budi,Pempek Kapal Selam,2,30000
+budi,Pempek Telur,4,48000
+budi,Pempek Keriting,1,11000
+budi,Pempek Lenjer,-1,-10000
+1,Pempek Kapal Selam,-1,-15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Lenjer,-1,-10000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Lenjer,2,20000
+arya,Pempek Kapal Selam,2,30000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Lenjer,1,10000
+arya,Pempek Kapal Selam,1,15000
+arya,Pempek Lenjer,1,10000
